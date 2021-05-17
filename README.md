@@ -1,2 +1,2 @@
 # operatingSystems
-knu comp321, operating system assignments
+knu cse comp321, operating system assignments
